@@ -1,0 +1,28 @@
+.erro{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.erro h1{
+  font-size: 80px;
+  color: #074973;
+}
+
+.erro h2{
+  color: #074973;
+}
+
+.erro a{
+text-decoration: none;
+color: white;
+cursor: pointer;
+background-color: #074973;
+padding: 4px 14px;
+font-weight: 800;
+margin-top: 10px;
+border-radius: 4px;
+font-size: 22px;
+}
